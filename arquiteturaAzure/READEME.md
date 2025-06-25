@@ -67,23 +67,6 @@ az vm create \
   --generate-ssh-keys
 ```
 
-## 📋 Estrutura do Projeto
-
-```
-azure-architecture-guide/
-├── README.md                    # Este arquivo
-├── docs/
-│   ├── components-guide.md      # Guia detalhado dos componentes
-│   ├── best-practices.md        # Melhores práticas
-│   └── examples/               # Exemplos práticos
-├── templates/
-│   ├── arm/                    # Templates ARM
-│   ├── bicep/                  # Templates Bicep
-│   └── terraform/              # Templates Terraform
-└── scripts/
-    ├── setup.sh               # Scripts de configuração
-    └── cleanup.sh             # Scripts de limpeza
-```
 
 ## 🏆 Melhores Práticas
 
